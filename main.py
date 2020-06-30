@@ -27,6 +27,7 @@ ProcessOnFile = collections.namedtuple("FileVo", ["chartId", "title", "last_modi
 self_pos_path = 'user'
 self_file_max_num = 1
 user_name = ""
+
 password = ""
 file_name_split = '_'
 

@@ -146,3 +146,5 @@ user/
 
 .idea
 
+__init__.py
+
